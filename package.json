@@ -1,0 +1,7 @@
+{
+	"name": "console",
+	"version": "0.0.1",
+	"description": "A console based logging plugin.",
+	"author": "Izaak Schroeder",
+	"main": "console.js"
+}
